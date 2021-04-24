@@ -1,4 +1,4 @@
-FROM dealii/dealii:v9.2.0-bionic
+FROM dealii/dealii:v9.1.1-bionic
 
 # Install custom tools, runtimes, etc.
 # For example "bastet", a command-line tetris clone:
